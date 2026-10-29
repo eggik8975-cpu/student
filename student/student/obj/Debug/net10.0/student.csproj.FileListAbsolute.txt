@@ -1,0 +1,15 @@
+D:\дз\не заходить!!!!\student\student\bin\Debug\net10.0\student.exe
+D:\дз\не заходить!!!!\student\student\bin\Debug\net10.0\student.deps.json
+D:\дз\не заходить!!!!\student\student\bin\Debug\net10.0\student.runtimeconfig.json
+D:\дз\не заходить!!!!\student\student\bin\Debug\net10.0\student.dll
+D:\дз\не заходить!!!!\student\student\bin\Debug\net10.0\student.pdb
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.AssemblyInfoInputs.cache
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.AssemblyInfo.cs
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.csproj.CoreCompileInputs.cache
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.dll
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\refint\student.dll
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.pdb
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.genruntimeconfig.cache
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\ref\student.dll
+D:\дз\не заходить!!!!\student\student\obj\Debug\net10.0\student.csproj.Up2Date
